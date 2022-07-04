@@ -204,6 +204,9 @@ input{
     }
     footer{
         flex-direction: column-reverse;
+    }    
+    #footer-logo{
+        width: 150px;
     }
     #details, #newsletter{
         width: 100%;
